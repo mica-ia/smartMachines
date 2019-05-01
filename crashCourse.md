@@ -4,7 +4,7 @@ So it's worth noting now, this stuff is complicated. _Really_ complicated. If yo
 ## Course Contents
 * [Vocab List](#vocab-list)
 * [Setting up your workspace](#setting-up-your-workspace)
-* [Terminal, command line, interpreters, oh my!](#what-is-the-terminal)
+* [What is the terminal?](#what-is-the-terminal)
 * [Python](#python)
 
 ## Vocab List
