@@ -71,7 +71,7 @@ Well, good question. When you start up your terminal app, you'll see something l
 deckardkane@RIPLEY ~/Documents/GitHub/smartMachines
 $
 ```
-This is your command line. You can type into it! The text above the $ (or next to it) will vary, depending on your username, the name of the device you're using, and your current filepath. The $ (or similar, it's dependent on what terminal app you're using) is just a character that prompts you for input. Of course, it'll only respond to specific words and phrases. For instance, you can type:
+This is your command line. You can type into it! The text above the $ (or next to it) will vary, depending on your username, the name of the device you're using, and your current filepath. The $ (or similar, it's dependent on what terminal app you're using) is just a character that prompts you for input. Of course, it'll only respond to specific words and phrases. For instance, you can type (and hit enter afterwards!):
 ```
 $ pwd
 ```
