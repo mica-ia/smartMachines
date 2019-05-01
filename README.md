@@ -1,6 +1,7 @@
 # smartMachines
+```
 $ helloWorld
-
+```
 ## What is this?
 Smart Machines is a class being run through the Interactive Arts department at the Maryland Institute College of Art (or MICA). In this class, we are all exploring artificial intelligence, machine learning, and the application of both to art making and beyond.
 
