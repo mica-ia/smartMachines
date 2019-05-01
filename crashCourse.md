@@ -23,7 +23,7 @@ So it's worth noting now, this stuff is complicated. _Really_ complicated. If yo
   ### Interpreter:
   In our case, Python.
   ### Filepath:
-  The "path" through the folders/directories to reach a particular location. For example, "C:/Users/deckardkane/Documents".
+  The "path" through the folders/directories to reach a particular location. For example, "/Users/deckardkane/Documents".
   ### Directory:
   A folder, more or less.
 
